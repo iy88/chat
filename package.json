@@ -1,0 +1,14 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat app",
+  "main": "server/index.js",
+  "author": "iy88",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "mysql": "^2.18.1",
+    "redis": "^3.0.2",
+    "ws": "^7.3.1"
+  }
+}
